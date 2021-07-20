@@ -1,0 +1,9 @@
+2021-06-29T23:22:08.194654+02:00 - Starting API Gateway...
+2021-06-29T23:22:08.195851+02:00 - Starting 4 workers
+2021-06-29T23:22:08.200653+02:00 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+2021-06-29T23:22:28.853921+02:00 - Hello "World"
+2021-07-20T16:56:04.132100+02:00 - Hello "Alexandra"
+2021-07-20T17:02:43.056463+02:00 - Starting API Gateway...
+2021-07-20T17:02:43.059046+02:00 - Starting 4 workers
+2021-07-20T17:02:43.062621+02:00 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+2021-07-20T17:02:57.671525+02:00 - Hello "Alexandra"
