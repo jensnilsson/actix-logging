@@ -31,8 +31,8 @@ async fn greet(req: HttpRequest) -> impl Responder {
 async fn main() -> std::io::Result<()> {
     
     log4rs::init_file("log4rs.yaml", Default::default()).unwrap();
-    info!("Starting API Gateway...");
-    println!["Starting API Gateway..."];
+    info!("Starting API Gateway... :)");
+    println!["Starting API Gateway... :)"];
     HttpServer::new(|| {
         App::new()
             .service(test)
